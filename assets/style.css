@@ -16,7 +16,7 @@ nav{display:flex;gap:18px;flex-wrap:wrap;font-size:.95rem;align-items:center}nav
 section.app{background:linear-gradient(180deg,#0b1230,#070c22);border:1px solid var(--line);border-radius:24px;padding:28px 22px;margin:28px 0;box-shadow:0 0 0 1px #1e40ff11,0 20px 50px #0008}
 .apphead{display:flex;gap:16px;align-items:center}.apphead img{width:72px;height:72px;border-radius:18px}
 .apphead h2{margin:0;font-size:1.6rem}.apphead p{margin:0;color:var(--cy)}
-.badge{display:inline-block;background:var(--ac);color:#fff;font-weight:700;border-radius:99px;padding:5px 16px;margin:16px 0 4px;box-shadow:0 0 16px #1e40ff88}
+.badge{display:inline-block;background:var(--ac);color:#fff;font-weight:700;border-radius:99px;padding:5px 16px;margin:16px 0 4px;box-shadow:0 0 16px #1e40ff88}a.badge{color:#fff;text-decoration:none}a.badge:hover{filter:brightness(1.08)}
 .feat{columns:2 260px;padding-left:0;list-style:none}.feat li{margin:4px 0;break-inside:avoid}
 .price{color:var(--cy);font-weight:600}
 .shots{display:flex;gap:14px;overflow-x:auto;padding:8px 0 4px;scroll-snap-type:x mandatory}
