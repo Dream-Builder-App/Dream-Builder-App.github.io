@@ -8,9 +8,15 @@
   body { font-family: system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; color: #1a1a1a; }
   h1 { font-size: 1.6rem; }
   h2 { font-size: 1.15rem; margin-top: 1.8rem; }
+
+  .lang-switch{--lang-check:#22c55e;display:inline-flex;align-items:center;border:1px solid #1e40ff;border-radius:99px;padding:2px;margin:0 0 1.2rem;white-space:nowrap;line-height:1}
+  .lang-switch__opt{display:inline-flex;align-items:center;justify-content:center;min-width:2.25em;min-height:1.7em;padding:3px 11px;border-radius:99px;font-size:.78rem;font-weight:600;letter-spacing:.06em;text-decoration:none;color:#445;line-height:1}
+  a.lang-switch__opt:hover{color:#1e40ff}
+  .lang-switch__opt.is-active,.lang-switch__opt[aria-current="true"]{background:#1e40ff;color:#fff;font-weight:700}
 </style>
 </head>
 <body>
+<span class="lang-switch" role="group" aria-label="Kieli"><span class="lang-switch__opt is-active" lang="fi" aria-current="true">FI</span><a class="lang-switch__opt" href="en/" hreflang="en" lang="en">EN</a></span>
 <h1>Uniäänet – Levollinen yö: tietosuojaseloste</h1>
 <p>Päivitetty 6.10.2026</p>
 
