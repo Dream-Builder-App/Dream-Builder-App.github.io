@@ -1,0 +1,33 @@
+# Dream Builder Apps
+
+> Dream Builder Apps is an app studio from Finland. We make clear, ad-free Android apps with no tracking.
+
+Sleep Sounds – Restful Night (Finnish name: Uniäänet – Levollinen yö) is an Android app with 23 calming nature sounds — rain, rain on a roof, fireplace, stream, ocean, wind and thunder — for sleep and for masking everyday noise. The sounds are built into the app, so they work offline. There is a mixer (up to five sounds at once), a sleep timer with a gentle fade-out, and lock-screen play and pause. No ads, no tracking, no account. The app does not include white noise, and it is not a medical app. Try it free on Google Play: a 7-day trial starts on first launch, then a monthly subscription at the price shown in the store.
+
+Life Happenings (Finnish name: Merkkipäivät) is a countdown app for birthdays, anniversaries and other important dates. It is coming soon to Google Play.
+
+Made in Finland. Contact: dreambuilderapps@gmail.com
+
+## Home
+
+- [Dream Builder Apps (Finnish)](https://dream-builder-app.github.io/): Studio home page in Finnish, with both apps.
+- [Dream Builder Apps (English)](https://dream-builder-app.github.io/en/): Studio home page in English, with both apps.
+
+## Guides
+
+- [How to sleep in a noisy apartment](https://dream-builder-app.github.io/en/how-to-sleep-in-a-noisy-apartment/): A practical guide to earplugs, room setup, talking to neighbors, and sound masking.
+- [Offline rain sounds for sleeping](https://dream-builder-app.github.io/en/rain-sounds-for-sleeping-offline/): Why rain that lives on the phone is more reliable than a video, and how the app’s rain recordings work without Wi-Fi.
+- [How to sleep with noisy neighbors](https://dream-builder-app.github.io/en/sleep-through-noisy-neighbors/): What nature-sound masking can and cannot do for neighbor noise at night.
+- [Sleep sounds to drown out a snoring partner](https://dream-builder-app.github.io/en/sounds-to-drown-out-snoring/): Using a steady background to cover some snoring — masking only, not a treatment.
+- [Rain on a roof sleep sounds](https://dream-builder-app.github.io/en/rain-on-roof-sleep-sounds/): The indoor sound of rain on a roof, including mixing it with thunder or wind.
+- [Crackling fireplace sounds for sleep](https://dream-builder-app.github.io/en/fireplace-sounds-for-sleep/): Softer fireplace recordings as a night background, offline and without ads.
+
+## Privacy
+
+- [Uniäänet privacy policy (Finnish)](https://dream-builder-app.github.io/uniaanet/): Privacy policy for the Finnish-language app listing.
+- [Sleep Sounds privacy policy (English)](https://dream-builder-app.github.io/uniaanet/en/): Privacy policy for Sleep Sounds – Restful Night.
+
+## Optional
+
+- Google Play: https://play.google.com/store/apps/details?id=fi.uniaanet.app
+- Sitemap: https://dream-builder-app.github.io/sitemap.xml

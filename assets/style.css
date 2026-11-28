@@ -51,3 +51,9 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:24px 0 40px;colo
 .guide-links li{margin:4px 0}
 .app-card{margin:28px 0 8px}
 .app-card .price{margin-bottom:10px}
+
+/* Guide tables and FAQ */
+.guide table{width:100%;border-collapse:collapse;margin:1em 0 1.5em;font-size:.95rem}
+.guide th,.guide td{border:1px solid var(--line);padding:.55em .7em;text-align:left;vertical-align:top;color:var(--mu)}
+.guide th{color:var(--tx);background:#0b1230;font-weight:650}
+.guide .faq h3{font-size:1.05rem;margin:1.25rem 0 .35rem;color:var(--tx)}
