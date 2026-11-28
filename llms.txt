@@ -13,7 +13,16 @@ Made in Finland. Contact: dreambuilderapps@gmail.com
 - [Dream Builder Apps (Finnish)](https://dream-builder-app.github.io/): Studio home page in Finnish, with both apps.
 - [Dream Builder Apps (English)](https://dream-builder-app.github.io/en/): Studio home page in English, with both apps.
 
-## Guides
+## Guides (Finnish)
+
+- [Näin nukut meluisassa kerrostalossa](https://dream-builder-app.github.io/fi/nain-nukut-meluisassa-kerrostalossa/): Käytännön opas korvatulppiin, huoneen järjestelyyn, naapurille puhumiseen ja melun peittämiseen.
+- [Sadeäänet nukkumiseen ilman nettiä](https://dream-builder-app.github.io/fi/sadeaanet-nukkumiseen-ilman-nettia/): Miksi puhelimessa asuva sade on luotettavampi kuin video, ja miten sovelluksen sadeäänet toimivat ilman nettiä.
+- [Naapurin melu yöllä](https://dream-builder-app.github.io/fi/naapurin-melu-yolla/): Mitä luonnon äänillä voi ja mitä ei voi tehdä naapurin metelille yöllä.
+- [Äänet kuorsauksen peittämiseen](https://dream-builder-app.github.io/fi/aanet-kuorsauksen-peittamiseen/): Tasainen taustaääni kuorsauksen peittämiseen — vain peittämistä, ei hoitoa.
+- [Sade katolla – äänet nukkumiseen](https://dream-builder-app.github.io/fi/sade-katolla-nukkumiseen/): Sisätiloihin kuuluva sateen ääni katolla, myös ukkosen tai tuulen kanssa sekoitettuna.
+- [Takkatulen ääni nukkumiseen](https://dream-builder-app.github.io/fi/takkatulen-aani-nukkumiseen/): Pehmeämmät takkanauhoitteet yötaustaksi, ilman nettiä ja ilman mainoksia.
+
+## Guides (English)
 
 - [How to sleep in a noisy apartment](https://dream-builder-app.github.io/en/how-to-sleep-in-a-noisy-apartment/): A practical guide to earplugs, room setup, talking to neighbors, and sound masking.
 - [Offline rain sounds for sleeping](https://dream-builder-app.github.io/en/rain-sounds-for-sleeping-offline/): Why rain that lives on the phone is more reliable than a video, and how the app’s rain recordings work without Wi-Fi.
